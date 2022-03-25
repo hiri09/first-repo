@@ -1,2 +1,3 @@
 this is some changes 
-i am doing on vi file
+
+hi how and what are you doing?
