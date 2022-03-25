@@ -1,0 +1,2 @@
+this is some changes 
+i am doing on vi file
